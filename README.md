@@ -1,12 +1,11 @@
-## Hi there 👋
+- 🔭 I’m currently working on Scale and Availability aspects of Managed Service Mesh offering at Salesforce.
+- 📫 How to reach me: pawanbishnoi@outlook.com
 
 
 <!--
 **Pawan-Bishnoi/Pawan-Bishnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on Scale and Availability aspects of Managed Service Mesh offering at Salesforce.
-- 📫 How to reach me: pawanbishnoi@outlook.com
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,8 +16,6 @@ Here are some ideas to get you started:
 
 
 
- 
-# 🌟 My GitHub Contributions
 
 Check out my active PRs in these CnCF repositories:
 
